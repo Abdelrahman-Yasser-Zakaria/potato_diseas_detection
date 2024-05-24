@@ -6,7 +6,7 @@
 3. Install dependencies
 
 ```sh
-cd wep-app
+cd web-app
 npm install --from-lock-json
 npm audit fix
 ```
