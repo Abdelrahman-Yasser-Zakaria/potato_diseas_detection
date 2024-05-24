@@ -1,0 +1,8 @@
+Flask
+Flask_Cors
+keras
+numpy
+Pillow
+Requests
+tensorflow
+uvicorn
